@@ -274,6 +274,17 @@
 		<text>Antónimo de: antónimo</text>
 		<answer>sinónimo</answer>
 	</question>
+	
+	<question type="single_choice" duration="15">
+		<text>¿En qué continente se encuentra Marruecos?</text>
+		<answer>3</answer>
+		<options>
+			<option>Asia</option>
+			<option>América</option>
+			<option>Africa</option>
+			<option>Oceanía</option>
+		</options>
+	</question>
 
 	<question type="textual" duration="15">
 		<text>Cuál fue la primera compañía en implementar el concepto de ventanas (windows)</text>
